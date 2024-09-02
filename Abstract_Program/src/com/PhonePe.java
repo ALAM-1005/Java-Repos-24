@@ -4,8 +4,6 @@ abstract class PhonePe {
 
 	abstract void pay(int amount);
 
-
-
 }
 
  abstract class Amazon extends PhonePe{
