@@ -2,8 +2,7 @@ package com;
 
 class Tom extends Person {
 
-	@Override
-
+	@Override  // anotation Override
 	void eat() {
 		System.out.println("Tom is eating");
 	}
