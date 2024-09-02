@@ -1,5 +1,4 @@
 package com;
-
 abstract class PhonePe {
 
 	abstract void pay(int amount);   //  abstract method  
