@@ -12,7 +12,8 @@ public class Globalvar {
 
 	}
 	public static void main(String[] args) {
-		Globalvar gv = new Globalvar();
+
+		Globalvar gv = new Globalvar();  //Object creation
 
 	}
 
