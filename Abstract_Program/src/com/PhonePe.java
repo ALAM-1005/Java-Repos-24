@@ -6,7 +6,7 @@ abstract class PhonePe {
 
 }
 
- abstract class Amazon extends PhonePe{
+abstract class Amazon extends PhonePe{
 	
 	abstract void buy (String product);
 		
