@@ -2,7 +2,7 @@ package com;
 
 abstract class PhonePe {
 
-	abstract void pay(int amount);
+	abstract void pay(int amount);   //  abstract method  
 
 }
 
