@@ -1,5 +1,4 @@
 package com;
-
 class Tom extends Person {
 
 	@Override  // anotation Override
