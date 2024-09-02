@@ -6,7 +6,7 @@ public class star {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
-        System.out.println("Enter the Number ");
+        System.out.print("Enter the Number ");
 
         int n = scan.nextInt();
 
