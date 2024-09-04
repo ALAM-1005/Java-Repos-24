@@ -1,6 +1,6 @@
 package Assignment;
 
-public class ElementCount {
+class ElementCount {
 
     // Method to count the occurrences of a specified element in an array
     public static int countOccurrences(int[] arr, int target) {
