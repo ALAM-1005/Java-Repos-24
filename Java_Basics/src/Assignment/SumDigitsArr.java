@@ -37,7 +37,10 @@ public class SumDigitsArr {
             System.out.print("\nModified array: ");
             for (int num : arr) {
                 System.out.print(num + " ");
+         
             }
+
+            System.out.println();
         }
     }
     
