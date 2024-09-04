@@ -1,7 +1,6 @@
 package Assignment;
 
 public class SumDigitsArr {
-    public class ReplaceWithDigitSum {
 
         // Method to calculate the sum of digits of a number
         public static int sumOfDigits(int num) {
@@ -42,4 +41,4 @@ public class SumDigitsArr {
         }
     }
     
-}
+
