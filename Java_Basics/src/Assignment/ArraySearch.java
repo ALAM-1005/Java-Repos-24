@@ -1,4 +1,6 @@
-public class ArraySearch {
+package Assignment;
+
+class ArraySearch {
 
     // Method to search for an element in an array
     public static int searchElement(int[] arr, int target) {
