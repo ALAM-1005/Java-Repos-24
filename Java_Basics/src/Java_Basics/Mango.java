@@ -7,7 +7,7 @@ public class Mango {
 
         Mango m1 = new Mango();
         Mango m2 = new Mango();
-        Mango m1 = new Mango();
+        Mango m3 = new Mango();
     }
     
 }
