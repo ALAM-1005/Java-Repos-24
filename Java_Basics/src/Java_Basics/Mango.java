@@ -6,6 +6,7 @@ public class Mango {
         System.out.println("main");
 
         Mango m1 = new Mango();
+        Mango m1 = new Mango();
     }
     
 }
