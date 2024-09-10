@@ -23,7 +23,7 @@ class ElementCount {
         // Element to count
         int target = 4;
 
-        // Call the countOccurrences method and store the result
+        // Call the countOccurrences method and store the result @ALAM-1005
         int result = countOccurrences(arr, target);
 
         // Print the result
