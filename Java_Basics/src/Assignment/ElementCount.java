@@ -8,7 +8,7 @@ class ElementCount {
 
         // Iterate through the array
         for (int i = 0; i < arr.length; i++) {
-            // If the current element matches the target, increment the count
+            // If the current element matches the target, @ALAM-1005 increment the count
             if (arr[i] == target) {
                 count++;
             }
