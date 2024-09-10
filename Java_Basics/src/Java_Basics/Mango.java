@@ -3,6 +3,8 @@ package Java_Basics;
 public class Mango {
 
 {
+
+    
     System.out.println("Mango");
 }
     public static void main(String[] args) {
