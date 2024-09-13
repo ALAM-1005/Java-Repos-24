@@ -2,16 +2,20 @@ public class Solution {
 
     public static void main(String[] args) {
 
-        System.out.println(10/0);
-        // try{
 
-        //     System.out.println(10/0);
+        try{
 
-        // }
-        // catch(){
+            System.out.println(10/0);
+
+        }
+        catch(ArithmaticException e){
+
+            System.out.println("Cant divided by zero");
 
 
-        // }
+
+
+        }
     }
     
 }
