@@ -2,9 +2,6 @@ package Java_Basics;
 
 public class Mango {
 
-{
-    System.out.println("Mango");
-}
     public static void main(String[] args) {
         System.out.println("main");
 
@@ -14,5 +11,10 @@ public class Mango {
         
         System.out.println(m1);
     }
+
+    
+{
+    System.out.println("Mango");
+}
     
 }
