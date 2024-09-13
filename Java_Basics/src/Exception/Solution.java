@@ -10,12 +10,9 @@ public class Solution {
             System.out.println(10/0);
 
         }
-        catch(ArithmaticException e){
+        catch(Exception e){
 
             System.out.println("Cant divided by zero");
-
-
-
 
         }
     }
