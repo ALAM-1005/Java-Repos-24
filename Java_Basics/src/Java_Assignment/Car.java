@@ -1,4 +1,4 @@
-package defaultsorting;
+package Java_Assignment;
 
 public class Car implements Comparable<Car>{
 	
