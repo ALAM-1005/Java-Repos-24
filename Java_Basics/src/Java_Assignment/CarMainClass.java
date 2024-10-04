@@ -7,7 +7,6 @@ public class CarMainClass {
 	
 	public static void main(String[] args) {
 
-		
 		Car c1 = new Car(251, "Mahendra");
 		Car c2 = new Car(251, "BMW");
 		Car c3 = new Car(252, "Tayota");
