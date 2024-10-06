@@ -8,7 +8,7 @@ public class Car implements Comparable<Car>{
 		this.cost = cost;
 		this.name = name;
 	}
-	@Override
+	@Override  // becouse it returns String representation of an object
 	
 	public String toString() {
 		
