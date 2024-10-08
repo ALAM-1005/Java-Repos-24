@@ -1,6 +1,7 @@
 package CollectionFremwork;
 
 import java.util.LinkedHashMap;
+import java.util.Set;
 
 import primitivecasting.narrowing;
 
@@ -12,5 +13,14 @@ public class MapMain {
     Map m1= new Map(   21);
 
     LinkedHashMap<Map,String> lks = new LinkedHashMap<Map,String>();
+
+    lks.put(m, "Juned");
+    lks.put(m1, "alisha");
+
+    Set<Map> keys = lks.keySet();
+
+    for (Map key : keys) {
+        System.out.println(key+"-> name:"+lks.get(keys));
+    }
     }
 }
