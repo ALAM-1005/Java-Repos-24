@@ -2,10 +2,14 @@ package CollectionFremwork;
 
 import java.util.LinkedHashMap;
 import java.util.Set;
+
+
 public class MapMain {
     
 
     public static void main(String[] args) {
+
+        
     Map m =new Map(20);
     Map m1= new Map(   21);
 
